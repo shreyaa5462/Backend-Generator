@@ -1,4 +1,4 @@
-I Backend Generator
+
 An AI-powered platform that converts Software Requirement Documents (SRDs) into FastAPI backend applications using LLMs.
 
 Tech Stack
